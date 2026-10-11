@@ -131,8 +131,8 @@ studybuddy-bot/
 
 ### 2. Kloning Repositori
 ```bash
-git clone https://github.com/JustNickyH/studybuddy-bot.git
-cd studybuddy-bot
+git clone https://github.com/JustNickyH/StudyBuddy-AI.git
+cd StudyBuddy-AI
 ```
 
 ### 3. Setup Virtual Environment
@@ -195,7 +195,7 @@ Antarmuka aplikasi dapat dilihat di folder [`screenshots/`](screenshots/):
 
 ## 🔗 Deliverables Proyek
 
-- **URL Repositori GitHub**: [https://github.com/JustNickyH/studybuddy-bot](https://github.com/JustNickyH/studybuddy-bot)
+- **URL Repositori GitHub**: [https://github.com/JustNickyH/StudyBuddy-AI](https://github.com/JustNickyH/StudyBuddy-AI)
 - **Teknologi Model**: Google Gemini API (`gemini-2.5-flash`, `gemini-2.5-pro`, `gemini-1.5-flash`)
 - **Pengembang**: JustNickyH
 
